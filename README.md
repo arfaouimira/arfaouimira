@@ -15,8 +15,10 @@ Always open to collaboration and learning new things!
 
 ### **Frameworks & Libraries**
 
-<img title="Symfony" alt="Symfony" width="40px" src="https://symfony.com/logos/symfony_black_03.svg" />||<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />||<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
-|--|--|--|--|--|
+<img title="Symfony" alt="Symfony" width="40px" src="https://symfony.com/logos/symfony_black_03.svg" />|
+<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />|
+<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+|--|--|--|
 
 ### **Databases**
 
