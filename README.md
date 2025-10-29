@@ -8,9 +8,8 @@
 
 </div>
 <div align="left">
-Computer Engineer specializing in Big Data and Business Intelligence, with a passion for web development and data analysis. I am seeking an engineering position at your company, where
-I can apply my skills to develop efficient web solutions and leverage data to provide valuable
-insights for your team.  
+Computer Engineer specializing in Big Data and Business Intelligence, passionate about web development and data analysis. I aim to contribute to impactful projects by building efficient web solutions and transforming data into actionable insights. Always eager to collaborate, learn new technologies, and grow professionally.
+ 
 Always open to collaboration and learning new things!
 <br><br>
   - 🔭 **Currently working on:** Advanced Dashboards, Web Apps & ML-driven insights  <br>
