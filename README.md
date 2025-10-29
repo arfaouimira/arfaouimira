@@ -32,19 +32,14 @@ Always open to collaboration and learning new things!
 
 ## 📊 GitHub Stats
 
-### <img src="https://github-readme-stats.vercel.app/api?username=amira-arfaoui&show_icons=true&theme=radical&include_all_commits=true">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=amira-###arfaoui&theme=radical" height="165">
-|--|--|
 
 ---
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/amira-arfaoui/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:amira.arfaoui@example.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"></a>|<a href="https://github.com/amira-arfaoui"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" width="40"></a>
+<a href="https://www.linkedin.com/in/amiraarfaoui/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:arfaouiamira716@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"></a>|<a href="https://github.com/arfaouimira"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" width="40"></a>
 |--|--|--|
 
 ---
 
-### 🌸 Random Quote of the Day
-### (*Refresh the page to see a new quote! ✨*)
 
-### <a href="https://github.com/techytushar/random-memer"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' alt="Random Quote" height="200"></a>
