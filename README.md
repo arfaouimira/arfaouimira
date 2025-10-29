@@ -1,8 +1,20 @@
 <h1>Hi there, I'm Amira Arfaoui <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Data Analyst | Web Developer </h3>
+<div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=arfaouimira&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/arfaouimira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arfaouimira)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:arfaouiamira716@gmail.com)
+
+</div>
 I'm a **Data Analyst** and **Web Developer** passionate about transforming data into insights and building modern, efficient web applications.  
 I enjoy exploring how data and technology can solve real-world problems.  
 Always open to collaboration and learning new things!
+
+  - 🔭 **Currently working on:** Advanced Dashboards, Web Apps & ML-driven insights  
+  - 🌱 **Currently learning:** Deep Learning, Angular & Cloud Technologies  
+  - 💼 **Open to:** Data Analysis, BI, Web Development roles & collaborative projects  
+  - 📫 **Reach me at:** arfaouiamira716@gmail.com
 
 ---
 
