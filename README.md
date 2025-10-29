@@ -23,10 +23,10 @@ Always open to collaboration and learning new things!
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 |--|--|--|
 
-### **Tools**
+### **Tools & Platforms**
 
-<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />|<img title="Excel" alt="Excel" width="40px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
-|--|--|--|--|--|
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />|<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />|<img title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />|<img title="PyCharm" alt="PyCharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+|--|--|--|--|--|--|
 
 ---
 
