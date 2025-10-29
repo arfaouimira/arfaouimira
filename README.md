@@ -15,7 +15,7 @@ Always open to collaboration and learning new things!
 
 ### **Frameworks & Libraries**
 
-<img title="Symfony" alt="Symfony" width="40px" src="https://symfony.com/logos/symfony_black_03.svg" />|<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png" />|<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />|<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png" />|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+<img title="Symfony" alt="Symfony" width="40px" src="https://symfony.com/logos/symfony_black_03.svg" />||<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />||<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
 |--|--|--|--|--|
 
 ### **Databases**
@@ -32,7 +32,7 @@ Always open to collaboration and learning new things!
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amira-arfaoui&show_icons=true&theme=radical&include_all_commits=true">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=amira-arfaoui&theme=radical" height="165">
+### <img src="https://github-readme-stats.vercel.app/api?username=amira-arfaoui&show_icons=true&theme=radical&include_all_commits=true">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=amira-###arfaoui&theme=radical" height="165">
 |--|--|
 
 ---
@@ -45,6 +45,6 @@ Always open to collaboration and learning new things!
 ---
 
 ### 🌸 Random Quote of the Day
-(*Refresh the page to see a new quote! ✨*)
+### (*Refresh the page to see a new quote! ✨*)
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' alt="Random Quote" height="200"></a>
+### <a href="https://github.com/techytushar/random-memer"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' alt="Random Quote" height="200"></a>
