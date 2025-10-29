@@ -48,24 +48,14 @@ These are some of the major technologies I use or have worked on:
 <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />|
 <img title="Excel" alt="Excel" width="40px" src="https://cdn-icons-png.flaticon.com/512/732/732220.png" />|
 <img title="Google Cloud" alt="Google Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />
-|--|--|--|--|--|
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=amira-arfaoui&show_icons=true&theme=radical&include_all_commits=true"> |
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira-arfaoui&layout=compact&theme=radical" />
-|--|--|
-
 ---
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/amira-arfaoui/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> |
-<a href="mailto:amira.arfaoui@example.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"></a> |
-<a href="https://github.com/amira-arfaoui"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"></a>
-|--|--|--|
+<a href="https://www.linkedin.com/in/amiraarfaoui/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> |
+<a href="mailto:arfaouiamira716@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"></a> |
+<a href="https://github.com/arfaouimira"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"></a>
+
 
 ---
 
@@ -74,7 +64,3 @@ These are some of the major technologies I use or have worked on:
 
 ---
 
-### Here is a random meme for you 😄
-(*PS: Refresh the page to see a new one!*)
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
