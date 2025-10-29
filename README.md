@@ -41,7 +41,8 @@ Always open to collaboration and learning new things!
 |--|--|--|--|--|--|
 
 ---
-
+![snake gif](https://github.com/arfaouimira/arfaouimira/blob/output/github-snake.svg)
+---
 ## 📊 GitHub Stats
 
 ---
