@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:arfaouiamira716@gmail.com)
 
 </div>
+<div align="left">
 I'm a **Data Analyst** and **Web Developer** passionate about transforming data into insights and building modern, efficient web applications.  
 I enjoy exploring how data and technology can solve real-world problems.  
 Always open to collaboration and learning new things!
@@ -15,7 +16,8 @@ Always open to collaboration and learning new things!
   - 🌱 **Currently learning:** Deep Learning, Angular & Cloud Technologies  
   - 💼 **Open to:** Data Analysis, BI, Web Development roles & collaborative projects  
   - 📫 **Reach me at:** arfaouiamira716@gmail.com
-
+  - 
+</div>
 ---
 
 ## 🧠 Skill Set
