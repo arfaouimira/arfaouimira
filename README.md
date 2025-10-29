@@ -17,7 +17,7 @@ These are some of the major technologies I use or have worked on:
 <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />|
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />|
 <img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-|--|--|--|--|--|
+
 
 ---
 
@@ -28,7 +28,6 @@ These are some of the major technologies I use or have worked on:
 <img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" />|
 <img title="Matplotlib" alt="Matplotlib" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png" />|
 <img title="Power BI" alt="Power BI" width="40px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
-|--|--|--|--|--|
 
 ---
 
@@ -37,7 +36,6 @@ These are some of the major technologies I use or have worked on:
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />|
 <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />|
 <img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-|--|--|--|
 
 ---
 
