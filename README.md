@@ -17,7 +17,6 @@ Always open to collaboration and learning new things!
   - 💼 **Open to:** Data Analysis, BI, Web Development roles & collaborative projects  <br>
   - 📫 **Reach me at:** arfaouiamira716@gmail.com <br>
 </div>
----
 
 ## 🧠 Skill Set
 
