@@ -24,9 +24,7 @@ These are some of the major technologies I use or have worked on:
 ### **Frameworks & Libraries**
 
 <img title="Symfony" alt="Symfony" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png" />|
-<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png" />|
 <img title="Numpy" alt="Numpy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" />|
-<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png" />|
 <img title="Power BI" alt="Power BI" width="40px" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
 
 ---
