@@ -8,8 +8,9 @@
 
 </div>
 <div align="left">
-I'm a **Data Analyst** and **Web Developer** passionate about transforming data into insights and building modern, efficient web applications.  
-I enjoy exploring how data and technology can solve real-world problems.  
+Computer Engineer specializing in Big Data and Business Intelligence, with a passion for web development and data analysis. I am seeking an engineering position at your company, where
+I can apply my skills to develop efficient web solutions and leverage data to provide valuable
+insights for your team.  
 Always open to collaboration and learning new things!
 <br><br>
   - 🔭 **Currently working on:** Advanced Dashboards, Web Apps & ML-driven insights  <br>
