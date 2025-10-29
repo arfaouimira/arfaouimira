@@ -10,14 +10,13 @@ Always open to collaboration and learning new things!
 
 ### **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />|<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
+<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />|<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />|<img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 |--|--|--|--|--|
 
 ### **Frameworks & Libraries**
 
-<img title="Symfony" alt="Symfony" width="40px" src="https://symfony.com/logos/symfony_black_03.svg" />|
-<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />|
-<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
+<img title="Symfony" alt="Symfony" width="40px" src="https://symfony.com/logos/symfony_black_03.svg" />|<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
 |--|--|--|
 
 ### **Databases**
