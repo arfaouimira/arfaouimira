@@ -12,11 +12,10 @@ I'm a **Data Analyst** and **Web Developer** passionate about transforming data 
 I enjoy exploring how data and technology can solve real-world problems.  
 Always open to collaboration and learning new things!
 <br><br>
-  - 🔭 **Currently working on:** Advanced Dashboards, Web Apps & ML-driven insights  
-  - 🌱 **Currently learning:** Deep Learning, Angular & Cloud Technologies  
-  - 💼 **Open to:** Data Analysis, BI, Web Development roles & collaborative projects  
-  - 📫 **Reach me at:** arfaouiamira716@gmail.com
-  - 
+  - 🔭 **Currently working on:** Advanced Dashboards, Web Apps & ML-driven insights  <br>
+  - 🌱 **Currently learning:** Deep Learning, Angular & Cloud Technologies  <br>
+  - 💼 **Open to:** Data Analysis, BI, Web Development roles & collaborative projects  <br>
+  - 📫 **Reach me at:** arfaouiamira716@gmail.com <br>
 </div>
 ---
 
